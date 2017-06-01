@@ -1,4 +1,4 @@
-//from Tin.
+
 //Review and write
 
 function makeLoadedDie() {
